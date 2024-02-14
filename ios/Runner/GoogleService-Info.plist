@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>310985158108-tn8ossvhtgfpn6qh8tjm89s9hulagec1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.310985158108-tn8ossvhtgfpn6qh8tjm89s9hulagec1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPtVWk6Nx-Zclew_74UqjAwRpXPpRgaq4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>310985158108</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sparebusket</string>
+	<key>PROJECT_ID</key>
+	<string>sparebusketapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sparebusketapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:310985158108:ios:2612b6c8996215782ef319</string>
+</dict>
+</plist>

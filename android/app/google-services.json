@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310985158108",
+    "project_id": "sparebusketapp",
+    "storage_bucket": "sparebusketapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310985158108:android:98dd6583d12beeff2ef319",
+        "android_client_info": {
+          "package_name": "com.example.sparebusket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310985158108-g5uu2cg40k8s1tgek8ingqo5ikc9uva7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzm8bqNotShaKlSZxpqdPl7GJ-oMOo1UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310985158108-g5uu2cg40k8s1tgek8ingqo5ikc9uva7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
